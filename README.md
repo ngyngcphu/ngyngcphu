@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phu Nguyen
-- 👀 I’m interested in software
-- 🌱 I’m currently learning Software Architecture, Database
+- 👀 I’m interested in Software Engineer
+- 🌱 I’m currently learning Computer Science at Ho Chi Minh City University of Technology (HCMUT)
 - 📫 How to reach me https://www.facebook.com/zinunar
 
 <!---
