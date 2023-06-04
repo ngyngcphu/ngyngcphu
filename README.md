@@ -7,7 +7,7 @@
  </div>
   
  <div align=center>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ngyngcphu&layout=compact" />
+  <img src = "https://stats.justsong.cn/api/leetcode/?username=ngyngcphu&theme=dark" />
  </div
 
 
