@@ -5,10 +5,6 @@
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=ngyngcphu&show_icons=true&count_private=true" />
  </div>
-  
- <div align=center>
-  <img src = "https://stats.justsong.cn/api/leetcode/?username=ngyngcphu&theme=dark" />
- </div
 
 
 
