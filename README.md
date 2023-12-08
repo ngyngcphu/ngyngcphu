@@ -4,6 +4,7 @@
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngyngcphu&layout=pie&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=ngyngcphu&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ngyngcphu&layout=compact&theme=radical" />
  </div>
 
 
