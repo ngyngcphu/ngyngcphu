@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Phu Nguyen</h1>
 <h3 align="center">Enthusiastic about Open Source Software Contribution</h3>
 
-- 🌱 I’m currently learning **Computer Science at HCMUT-VNUHCM**
-- 📛 I'm a member of TickLab.
+- 🌱 I’m currently learning **Computer Science at HCMUT-VNUHCM**.
+- 📛 I'm a member of **TickLab**.
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngyngcphu&layout=pie&theme=radical" />
